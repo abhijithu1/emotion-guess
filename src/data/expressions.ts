@@ -9,7 +9,7 @@ export type Expression = {
 
 export const expressions: Expression[] = [
   {
-    image: 'https://randomuser.me/api/portraits/men/1.jpg',
+    image: 'https://iili.io/FweoOHG.th.jpg)',
     emotion: 'happy',
     hints: [
       'This emotion is often shown when something good happens.',
@@ -18,7 +18,7 @@ export const expressions: Expression[] = [
     ]
   },
   {
-    image: 'https://randomuser.me/api/portraits/women/2.jpg',
+    image: 'https://iili.io/Fwe5mcN.jpg',
     emotion: 'sad',
     hints: [
       'This emotion is often shown when something bad happens.',
@@ -27,7 +27,7 @@ export const expressions: Expression[] = [
     ]
   },
   {
-    image: 'https://randomuser.me/api/portraits/men/3.jpg',
+    image: 'https://iili.io/Fwe1Pgj.jpg',
     emotion: 'angry',
     hints: [
       'This emotion is often shown when someone is upset or frustrated.',
@@ -36,7 +36,7 @@ export const expressions: Expression[] = [
     ]
   },
   {
-    image: 'https://randomuser.me/api/portraits/women/4.jpg',
+    image: 'https://iili.io/FweMQe4.jpg',
     emotion: 'surprised',
     hints: [
       'This emotion is often shown when something unexpected happens.',
